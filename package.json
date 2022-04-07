@@ -16,5 +16,14 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "webapps assignment-09\r [heroku link](https://s2wb80anakapalli.herokuapp.com/)\r my class vehicles with attributes vehicle_type (string), brand (string), and price(number)",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndraPhani/s2wb80anakapalli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IndraPhani/s2wb80anakapalli/issues"
+  },
+  "homepage": "https://github.com/IndraPhani/s2wb80anakapalli#readme"
 }
